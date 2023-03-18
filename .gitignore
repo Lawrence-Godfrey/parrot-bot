@@ -1,0 +1,7 @@
+
+
+node_modules
+audio_clips/*
+.env
+.idea
+package-lock.json
